@@ -18,7 +18,7 @@ main{
     margin: auto;
     border-radius: 10px;
     height: 850px;
-    position: fixed;
+    position: absolute;
 }
 p{
     position: relative;
