@@ -18,6 +18,7 @@ main{
     margin: auto;
     border-radius: 10px;
     height: 850px;
+    position: fixed;
 }
 p{
     position: relative;
@@ -38,5 +39,9 @@ img{
 }
 .v{
     position: relative;
-    right: 44px;
+    
+}
+footer{
+    position: fixed;
+    top: 850px;
 }
