@@ -1,18 +1,23 @@
 @charset "UTF-8";
+  @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@600;700&family=PT+Serif&display=swap');
+
 body{
     text-align: center;
-    color: white;
-    background: white no-repeat;
+    color: rgb(14, 13, 13);
+    background: url(imagens/pexels-brett-sayles-3733925.jpg) no-repeat;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'PT Serif', serif;
+
 }
 main{
     padding: auto;
-    padding: 10px;
     margin: 10px;
     background: url(imagens/pexels-madison-inouye-1831234.jpg);
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
     border-radius: 10px;
+    height: 850px;
 }
 p{
     position: relative;
@@ -25,5 +30,13 @@ h2,h4{
 .imagen{
    display: block;
    position: relative;
-   bottom: 100px;
+   bottom: 200px;
+   left: 10px;
+}
+img{
+    padding: 10px;
+}
+.v{
+    position: relative;
+    right: 44px;
 }
