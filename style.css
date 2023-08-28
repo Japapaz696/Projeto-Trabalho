@@ -49,15 +49,43 @@ footer{
 
   }
   @media screen and (min-width:749px){
+    body{
+        text-align: center;
+        color: rgb(14, 13, 13);
+        background: url(imagens/pexels-brett-sayles-3733925.jpg) no-repeat;
+        font-family: 'Edu SA Beginner', cursive;
+        font-family: 'PT Serif', serif;}
     main{
-        padding: auto;
-        margin: 10px;
-        background: url(imagens/pexels-madison-inouye-1831234.jpg);
-        min-width: 300px;
-        max-width: 1000px;
-        margin: auto;
-        border-radius: 10px;
-        height: 850px;
-        position: fixed;
+
+            padding: auto;
+            padding: 10px;
+            margin: 10px;
+            background: url(imagens/pexels-madison-inouye-1831234.jpg);
+            min-width: 300px;
+            max-width: 1000px;
+            margin: auto;
+            border-radius: 10px;
+        
+    }
+    p{
+        position: relative;
+        bottom: 239px;
+    }
+    h2,h4{
+        position: relative;
+        bottom: 224px; 
+    }
+    .imagen{
+       display: inline-block;
+       position: relative;
+       bottom: 200px;
+       left: 10px;
+    }
+    img{
+        padding: 10px;
+    }
+    .v{
+        position: relative;
+        
     }
   }
