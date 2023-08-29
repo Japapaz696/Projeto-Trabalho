@@ -30,10 +30,11 @@ img{
     position: relative;
     right: 43px;
 }
-footer{
-    text-align: center;
-    position: fixed;
-    top: 850px;
+h1{
+ position: relative;
+bottom: 200px;
+
+
 }
 
   }
