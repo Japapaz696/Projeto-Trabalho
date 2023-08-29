@@ -67,4 +67,8 @@ footer{
         position: relative;
         
     }
+    .rodape{
+        position: relative;
+        top: -108px;
+    }
   }
