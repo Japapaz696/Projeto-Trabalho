@@ -1,7 +1,7 @@
 @charset "UTF-8";
   @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@600;700&family=PT+Serif&display=swap');
   @media screen and (min-width:400px) and (max-width:749px){
-    body{
+body{
     text-align: center;
     color: rgb(14, 13, 13);
     background: url(imagens/rosa.jpg) no-repeat;
@@ -45,6 +45,7 @@ bottom: 200px;
         background: url(imagens/rosa.jpg) no-repeat;
         font-family: 'Edu SA Beginner', cursive;
         font-family: 'PT Serif', serif;
+        font-size: x-large;
     
     }
     p{
